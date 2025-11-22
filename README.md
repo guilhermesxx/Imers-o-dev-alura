@@ -113,7 +113,7 @@ Semantic HTML5
 ### **Interface de Busca**
 *Barra de pesquisa intuitiva e design futurista*
 
-![Busca do App](images/busca.png)
+![Busca do App](images/busca%20do%20app.png)
 
 ### **Resultados Dinâmicos**
 *Visualização dos cards com informações práticas*
