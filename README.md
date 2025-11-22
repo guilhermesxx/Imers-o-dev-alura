@@ -267,7 +267,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 *Feito com ❤️ para a comunidade tech brasileira*
 
-[![Stars](https://img.shields.io/github/stars/seu-usuario/futurepath?style=social)](https://github.com/seu-usuario/futurepath/stargazers)
-[![Forks](https://img.shields.io/github/forks/seu-usuario/futurepath?style=social)](https://github.com/seu-usuario/futurepath/network/members)
 
 </div>
