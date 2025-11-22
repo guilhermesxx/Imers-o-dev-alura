@@ -54,10 +54,10 @@ Uma experiência web **imersiva e futurista** que oferece:
 - **Dicas práticas** em cada situação
 - **Linguagem acessível** e motivadora
 
-### 🤖 **Integração com IA**
-- **API Gemini** para geração de conteúdo dinâmico
-- **Node.js** para processamento backend
-- **Expansão automática** da base de conhecimento
+### 🎨 **Recursos Avançados**
+- **Animações CSS3** fluidas e responsivas
+- **JavaScript Vanilla** otimizado para performance
+- **Arquitetura modular** e escalável
 
 ---
 
@@ -80,13 +80,13 @@ Accent: #f59e0b (Laranja Energia)
 Background: Gradientes Dinâmicos
 ```
 
-### **Backend & IA**
+### **Recursos Técnicos**
 ```javascript
-// Integração Inteligente
-Node.js Runtime
-Gemini API Integration
-JSON Database
+// Funcionalidades Avançadas
 Fetch API Async/Await
+JSON Data Management
+Responsive Design
+Semantic HTML5
 ```
 
 ---
@@ -152,12 +152,11 @@ npx serve .
 php -S localhost:8000
 ```
 
-### **Integração com IA (Opcional)**
+### **Deploy Simples**
 ```bash
-# Configure a API Gemini
-cd node-integration
-npm install
-node gerador.js
+# Hospedagem gratuita
+# GitHub Pages, Netlify ou Vercel
+# Apenas faça upload dos arquivos
 ```
 
 ---
@@ -174,10 +173,6 @@ futurepath/
 │   ├── Primeiro currículo.png
 │   ├── Ansiedade em entrevistas.png
 │   └── ... (10 imagens AI-generated)
-├── 🤖 node-integration/    # Backend IA
-│   ├── gerador.js
-│   ├── baseDeConhecimento.json
-│   └── package.json
 └── 📖 README.md           # Documentação
 ```
 
