@@ -255,10 +255,6 @@ Desenvolvido por um jovem apaixonado por tecnologia e impacto social, que acredi
 
 ---
 
-## 📄 **Licença**
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 <div align="center">
