@@ -1,0 +1,98 @@
+[
+    {
+        "titulo": "Primeiro Currículo",
+        "categoria": "Carreira",
+        "descricao": "Como montar um currículo sem experiência profissional e destacar suas habilidades técnicas e projetos pessoais.",
+        "dicas": "Foque em projetos, cursos e habilidades. Use palavras-chave da área tech.",
+        "link": "https://www.serasaexperian.com.br/carreiras/blog-carreiras/passo-a-passo-de-como-fazer-um-curriculo-para-estagio/",
+        "imagem": "images/Primeiro currículo.png"
+    },
+    {
+        "titulo": "Ansiedade em Entrevistas",
+        "categoria": "Desenvolvimento Pessoal",
+        "descricao": "Técnicas para controlar o nervosismo e se preparar mentalmente para processos seletivos em tecnologia.",
+        "dicas": "Pratique perguntas comuns, respire fundo e prepare exemplos de projetos.",
+        "link": "https://exame.com/carreira/guia-de-carreira/como-lidar-com-a-ansiedade-antes-de-entrevistas-de-emprego/",
+        "imagem": "images/Ansiedade em entrevistas.png"
+    },
+    {
+        "titulo": "Escolher Área Tech",
+        "categoria": "Orientação",
+        "descricao": "Como descobrir qual área da tecnologia combina com seu perfil, interesses e objetivos de carreira.",
+        "dicas": "Teste diferentes linguagens, converse com profissionais e analise o mercado.",
+        "link": "https://www.alura.com.br/artigos/sua-jornada-estudos-de-programacao-alura?srsltid=AfmBOopDY3iBRpwAQUcoVg-RuE4-Idt8fIJqf8ojoHJYbR2I9Rkhg1vt",
+        "imagem": "images/Escolher área tech.png"
+    },
+    {
+        "titulo": "Estudar + Programar",
+        "categoria": "Organização",
+        "descricao": "Estratégias para conciliar vestibular, faculdade e aprendizado de programação sem se sobrecarregar.",
+        "dicas": "Crie cronogramas realistas, use técnicas de estudo ativo e defina prioridades.",
+        "link": "https://estudandoprogramacao.com.br/8-dicas-para-otimizar-seu-tempo-de-estudo-em-programacao/?utm_source=chatgpt.com",
+        "imagem": "images/Organizar estudos.png"
+    },
+    {
+        "titulo": "Rotina de Estudos",
+        "categoria": "Produtividade",
+        "descricao": "Como organizar horários, definir prioridades e manter consistência nos estudos de tecnologia.",
+        "dicas": "Use técnica Pomodoro, defina metas diárias e mantenha um ambiente organizado.",
+        "link": "https://www.estudarfora.org.br/rotina-de-estudos/",
+        "imagem": "images/Rotina de Estudos.png"
+    },
+    {
+        "titulo": "Identificar Burnout",
+        "categoria": "Saúde Mental",
+        "descricao": "Sinais de esgotamento mental e como prevenir o burnout durante os estudos intensivos.",
+        "dicas": "Faça pausas regulares, pratique exercícios e mantenha hobbies fora da tech.",
+        "link": "https://valor.globo.com/carreira/noticia/2024/04/07/saiba-como-identificar-o-burnout.ghtml",
+        "imagem": "images/Identificar burnout.png"
+    },
+    {
+        "titulo": "Montar Portfólio",
+        "categoria": "Carreira",
+        "descricao": "Projetos essenciais e como apresentar seu trabalho de forma profissional para recrutadores.",
+        "dicas": "Inclua 3-5 projetos diversos, documente bem o código e hospede no GitHub.",
+        "link": "https://www.ciadeestagios.com.br/guia-profissional/como-criar-um-portfolio/",
+        "imagem": "images/Montar Portfólio.png"
+    },
+    {
+        "titulo": "Vagas de Estágio",
+        "categoria": "Oportunidades",
+        "descricao": "Onde procurar, como se candidatar e o que esperar do primeiro estágio em tecnologia.",
+        "dicas": "Use LinkedIn, sites de vagas tech e networking. Prepare-se para testes técnicos.",
+        "link": "https://portal.ciee.org.br/",
+        "imagem": "images/Vagas de Estágio.png"
+    },
+    {
+        "titulo": "Vida Financeira",
+        "categoria": "Finanças",
+        "descricao": "Primeiros passos para organizar dinheiro, investir e planejar o futuro financeiro na carreira tech.",
+        "dicas": "Controle gastos, crie reserva de emergência e invista em educação continuada.",
+        "link": "https://www.spcbrasil.com.br/blog/estabilidade-financeira",
+        "imagem": "images/Vida Financeira.png"
+    },
+    {
+        "titulo": "Networking",
+        "categoria": "Relacionamentos",
+        "descricao": "Como construir uma rede de contatos profissionais mesmo sendo iniciante na área de tecnologia.",
+        "dicas": "Participe de eventos tech, seja ativo no LinkedIn e contribua em projetos open source.",
+        "link": "https://www.estacio.br/blog/carreiras/o-que-e-networking",
+        "imagem": "images/Networking.png"
+    },
+    {
+        "titulo": "Lidando com Code Review e Críticas Construtivas",
+        "categoria": "Carreira / Soft Skills",
+        "descricao": "Como lidar com feedback sobre seu código sem levar para o pessoal e usar críticas para crescer profissionalmente.",
+        "dicas": "Agradeça o feedback, foque na solução e peça esclarecimentos quando necessário.",
+        "link": "https://www.rocketseat.com.br/blog/artigos/post/code-review-guia-completo",
+        "imagem": "images/Lidando com Code Review e Críticas Construtivas.png"
+    },
+    {
+        "titulo": "Entendendo e Negociando Dívidas de Cartão",
+        "categoria": "Finanças / Independência",
+        "descricao": "Como evitar e sair das dívidas do cartão de crédito, entendendo juros e negociando com a administradora.",
+        "dicas": "Evite o rotativo, negocie parcelamento e quite o mais rápido possível.",
+        "link": "https://www.spcbrasil.com.br/blog/divida-no-cartao-de-credito",
+        "imagem": "images/Entendendo e Negociando Dívidas de Cartão.png"
+    }
+]
