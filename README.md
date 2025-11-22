@@ -9,7 +9,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
 </div>
 
@@ -107,6 +106,24 @@ Semantic HTML5
 
 ---
 
+## 📸 **Preview do Projeto**
+
+<div align="center">
+
+### **Interface de Busca**
+*Barra de pesquisa intuitiva e design futurista*
+
+![Busca do App](images/busca.png)
+
+### **Resultados Dinâmicos**
+*Visualização dos cards com informações práticas*
+
+![Modal de Resultados](images/modal.png)
+
+</div>
+
+---
+
 ## 🎨 **Showcase Visual**
 
 ### **Interface Principal**
@@ -122,7 +139,7 @@ Semantic HTML5
 ### **Design Responsivo**
 - Breakpoints estratégicos para todos os dispositivos
 - Tipografia escalável e legível
-- Imagens otimizadas com lazy loading
+- Imagens otimizadas e interface adaptável
 
 ---
 
@@ -225,7 +242,6 @@ futurepath/
 
 ### **🚀 Escalabilidade**
 - Arquitetura preparada para crescimento
-- Integração com IA para expansão automática
 - Base sólida para funcionalidades futuras
 
 ---
@@ -244,7 +260,7 @@ futurepath/
 
 ---
 
-## 👨‍💻 **Sobre o Desenvolvedor**
+## 👨💻 **Sobre o Desenvolvedor**
 
 Desenvolvido por um jovem apaixonado por tecnologia e impacto social, que acredita no poder da educação para transformar vidas. Este projeto representa não apenas habilidades técnicas, mas uma visão de futuro onde a tecnologia serve como ponte para oportunidades.
 
@@ -255,13 +271,10 @@ Desenvolvido por um jovem apaixonado por tecnologia e impacto social, que acredi
 
 ---
 
----
-
 <div align="center">
 
 **🚀 FuturePath - Transformando sonhos em realidade, um jovem por vez**
 
 *Feito com ❤️ para a comunidade tech brasileira*
-
 
 </div>
